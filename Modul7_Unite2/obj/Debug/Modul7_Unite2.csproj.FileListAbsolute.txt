@@ -1,0 +1,7 @@
+C:\Users\Emir\source\repos\Modul7_Unite2\bin\Debug\Modul7_Unite2.exe.config
+C:\Users\Emir\source\repos\Modul7_Unite2\bin\Debug\Modul7_Unite2.exe
+C:\Users\Emir\source\repos\Modul7_Unite2\bin\Debug\Modul7_Unite2.pdb
+C:\Users\Emir\source\repos\Modul7_Unite2\obj\Debug\Modul7_Unite2.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\Modul7_Unite2\obj\Debug\Modul7_Unite2.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\Modul7_Unite2\obj\Debug\Modul7_Unite2.exe
+C:\Users\Emir\source\repos\Modul7_Unite2\obj\Debug\Modul7_Unite2.pdb

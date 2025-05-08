@@ -1,0 +1,10 @@
+C:\Users\Emir\source\repos\Modul1_Unite3\bin\Debug\Modul1_Unite3.exe.config
+C:\Users\Emir\source\repos\Modul1_Unite3\bin\Debug\Modul1_Unite3.exe
+C:\Users\Emir\source\repos\Modul1_Unite3\bin\Debug\Modul1_Unite3.pdb
+C:\Users\Emir\source\repos\Modul1_Unite3\obj\Debug\Modul1_Unite3.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\Modul1_Unite3\obj\Debug\Modul1_Unite3.Form1.resources
+C:\Users\Emir\source\repos\Modul1_Unite3\obj\Debug\Modul1_Unite3.Properties.Resources.resources
+C:\Users\Emir\source\repos\Modul1_Unite3\obj\Debug\Modul1_Unite3.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\Modul1_Unite3\obj\Debug\Modul1_Unite3.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\Modul1_Unite3\obj\Debug\Modul1_Unite3.exe
+C:\Users\Emir\source\repos\Modul1_Unite3\obj\Debug\Modul1_Unite3.pdb
