@@ -1,0 +1,7 @@
+C:\Users\Emir\source\repos\MODUL1_UNİTE1\bin\Debug\MODUL1_UNİTE1.exe.config
+C:\Users\Emir\source\repos\MODUL1_UNİTE1\bin\Debug\MODUL1_UNİTE1.exe
+C:\Users\Emir\source\repos\MODUL1_UNİTE1\bin\Debug\MODUL1_UNİTE1.pdb
+C:\Users\Emir\source\repos\MODUL1_UNİTE1\obj\Debug\MODUL1_UNİTE1.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\MODUL1_UNİTE1\obj\Debug\MODUL1_UNİTE1.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\MODUL1_UNİTE1\obj\Debug\MODUL1_UNİTE1.exe
+C:\Users\Emir\source\repos\MODUL1_UNİTE1\obj\Debug\MODUL1_UNİTE1.pdb
